@@ -1247,8 +1247,7 @@ body.dark .shane_tm_news ul li .title a:hover {
   padding-top: 33px;
 }
 .shane_tm_contact .contact_inner .left {
-  width: 50%;
-  padding-right: 15px;
+  width: 100%;
 }
 .shane_tm_contact .fields {
   width: 100%;
@@ -1256,6 +1255,11 @@ body.dark .shane_tm_news ul li .title a:hover {
   clear: both;
   float: left;
 }
+
+.contact-button {
+  text-align: right;
+}
+
 .shane_tm_contact .fields .first {
   width: 100%;
   float: left;
